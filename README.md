@@ -130,3 +130,7 @@ How to Run the Project
   3) Open analytics_report.pbix in Power BI
 
   4) Refresh data to load analytics from Snowflake
+
+
+<img width="962" height="537" alt="BI_Report_Screenshot" src="https://github.com/user-attachments/assets/6e5bc0c2-61bb-4ebc-9d9b-53e351ff7bb1" />
+
